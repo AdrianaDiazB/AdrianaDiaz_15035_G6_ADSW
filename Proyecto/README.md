@@ -4,7 +4,10 @@ Link del repositorio del proyecto LEARNING CONTENT: https://github.com/AdrianaDi
 # LEARNING CONTENT
 
 ## Descripción
- El proyecto busca realizar una contribución significativa al proponer la implementación de un software, el cual contará con material de apoyo y recursos educativos de séptimo nivel proyectándose a una educación básica superior. Este enfoque busca garantizar la resiliencia del aprendizaje, independientemente de las circunstancias externas, para asegurar un futuro educativo sólido y equitativo para los estudiantes antes mencionados.
+ El proyecto busca realizar una contribución significativa al proponer la implementación de un software,
+el cual contará con material de apoyo y recursos educativos de séptimo nivel proyectándose a una educación básica superior.
+Este enfoque busca garantizar la resiliencia del aprendizaje, independientemente de las circunstancias externas,
+para asegurar un futuro educativo sólido y equitativo para los estudiantes antes mencionados.
 
 ## Instalación
 1. Clona el repositorio:
