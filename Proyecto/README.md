@@ -36,4 +36,3 @@ El proyecto se encuentra estructurado bajo el patron de diseño ABSTRACT FACTORY
 ## Contacto
 - Autor: Grupo 6
 
-```
